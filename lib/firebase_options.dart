@@ -6,24 +6,24 @@ class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
     if (kIsWeb) {
       return const FirebaseOptions(
-        apiKey: "AIzaSyCKFH6B1d_M4BOaG39J-HkKFoewVzC2E1s",
-        authDomain: "campustracksahe.firebaseapp.com",
-        projectId: "campustracksahe",
-        storageBucket: "campustracksahe.firebasestorage.app",
-        messagingSenderId: "179056380448",
-        appId: "1:179056380448:web:03bd587f3c07dd8fb9ca45",
-        measurementId: "G-Z7SJPP0HHQ",
+        apiKey: "AIzaSyDEMO-API-KEY-1234567890",
+        authDomain: "demo-web.firebaseapp.com",
+        projectId: "demo-project-id",
+        storageBucket: "demo-project-id.appspot.com",
+        messagingSenderId: "123456789012",
+        appId: "1:123456789012:web:demoappid123456",
+        measurementId: "G-DEMOID1234",
       );
     }
 
     switch (defaultTargetPlatform) {
       case TargetPlatform.android:
         return const FirebaseOptions(
-          apiKey: "AIzaSyCn8LIlSI4jpoC4QQkY8t4kVqP-xSQx09c",
-          appId: "1:179056380448:android:beff382c6e05e939b9ca45",
-          messagingSenderId: "179056380448",
-          projectId: "campustracksahe",
-          storageBucket: "campustracksahe.firebasestorage.app",
+          apiKey: "AIzaSyDEMO-ANDROID-KEY-0987654321",
+          appId: "1:123456789012:android:demoappid098765",
+          messagingSenderId: "123456789012",
+          projectId: "demo-project-id",
+          storageBucket: "demo-project-id.appspot.com",
         );
 
       default:
