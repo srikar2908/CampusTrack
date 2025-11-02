@@ -1,0 +1,17 @@
+node_modules/ 
+.dart_tool/ 
+build/ 
+.firebase/ 
+.vscode/ 
+.idea/ 
+.gradle/ 
+android/ 
+ios/ 
+macos/ 
+windows/ 
+linux/ 
+web/ 
+test/ 
+functions/ 
+*.apk 
+*.log 
