@@ -144,37 +144,6 @@ Here is a visual walkthrough of the main interfaces of the application:
 | :---: |
 | <img src="screenshots/excel_report.png" width="450"> |
 
----
-
-## ⚙️ Installation & Setup
-
-To run this project locally, follow these steps:
-
-### 1. Prerequisites
-*   Ensure you have the [Flutter SDK](https://docs.flutter.dev/get-started/install) installed (v3.1.0 or higher recommended).
-*   Set up Android Studio, Xcode, or VS Code.
-*   Create a Firebase project in the [Firebase Console](https://console.firebase.google.com/).
-
-### 2. Clone the Repository
-```bash
-git clone https://github.com/greeshma1376/CampusTrack.git
-cd CampusTrack/campustrack
-```
-
-### 3. Install Dependencies
-```bash
-flutter pub get
-```
-
-### 4. Configure Firebase
-*   **Android:** Add your Android app package name to the Firebase project, download the `google-services.json` file, and place it in the `android/app/` directory.
-*   **iOS:** Add your iOS bundle ID to the Firebase project, download the `GoogleService-Info.plist` file, and place it in the `ios/Runner/` directory.
-*   Enable **Authentication** (Email/Password & Google Sign-In), **Cloud Firestore**, and **Cloud Storage** in the Firebase console.
-
-### 5. Run the App
-```bash
-flutter run
-```
 
 ---
 
