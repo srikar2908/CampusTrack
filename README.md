@@ -159,7 +159,7 @@ To run this project locally, follow these steps:
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/greeshma1376/CampusTrack.git
+git clone https://github.com/srikar2908/CampusTrack.git
 cd CampusTrack/campustrack
 ```
 
@@ -188,16 +188,3 @@ flutter run
 *   **🌐 Web Dashboard Portal:** Extend administration capabilities via a dedicated web application interface for larger departmental screens.
 *   **🏢 Multi-Campus Scalability:** Expand the architecture to support multiple distinct campuses under a single tenant databases setup.
 
----
-
-<<<<<<< HEAD
-=======
-## 👥 Authors & Contributors
-
-This project was submitted as part of the EPICS project report:
-*   **K. S. S. N. S. Srikar**
-*   **Greeshma Prasadam**
-*   **Deekshitha Mopidevi**
-
-*Developed under the guidance of Dr. Shaik Khaja Mohiddin (Associate Professor, CSE Dept at V.R. Siddhartha Engineering College).*
->>>>>>> 581646b (uploaded all files)
