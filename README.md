@@ -127,7 +127,10 @@ Here is a visual walkthrough of the main interfaces of the application:
 ### 🔑 Authentication & Dashboards
 | Login & Account Recovery | Student Dashboard | Admin Dashboard |
 | :---: | :---: | :---: |
-| <img src="screenshots/login_screen.png" width="220"> <br> <img src="screenshots/password_reset.png" width="220"> | <img src="screenshots/student_dashboard.png" width="220"> | <img src="screenshots/admin_dashboard.png" width="220"> |
+| <img src="screenshots/login_screen.png" width="220"> |
+  <img src="screenshots/password_reset.png" width="220"> |
+  <img src="screenshots/student_dashboard.png" width="220"> |
+  <img src="screenshots/admin_dashboard.png" width="220"> |
 
 ### 🔍 Item Reporting & Verification
 | Item Detail Screen | Reporting Screen | Verification Screen |
@@ -144,7 +147,6 @@ Here is a visual walkthrough of the main interfaces of the application:
 | :---: |
 | <img src="screenshots/excel_report.png" width="450"> |
 
-<<<<<<< HEAD
 =======
 ---
 
@@ -177,8 +179,6 @@ flutter pub get
 ```bash
 flutter run
 ```
->>>>>>> 581646b (uploaded all files)
-
 ---
 
 ## 🚀 Future Enhancements
