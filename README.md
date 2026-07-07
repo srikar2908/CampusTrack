@@ -144,8 +144,7 @@ Here is a visual walkthrough of the main interfaces of the application:
 | :---: |
 | <img src="screenshots/excel_report.png" width="450" >|
 
-=======
----
+
 
 ## ⚙️ Installation & Setup
 
