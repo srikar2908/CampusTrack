@@ -142,7 +142,7 @@ Here is a visual walkthrough of the main interfaces of the application:
 ### 📊 Excel Report Output
 | Exported Excel Sheets |
 | :---: |
-| <img src="screenshots/excel_report.png" width="450" height="220> |
+| <img src="screenshots/excel_report.png" |
 
 =======
 ---
