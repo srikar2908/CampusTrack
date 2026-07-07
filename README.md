@@ -187,11 +187,3 @@ flutter run
 
 ---
 
-## 👥 Authors & Contributors
-
-This project was submitted as part of the EPICS project report:
-*   **K. S. S. N. S. Srikar**
-*   **Greeshma Prasadam**
-*   **Deekshitha Mopidevi**
-
-*Developed under the guidance of Dr. Shaik Khaja Mohiddin (Associate Professor, CSE Dept at V.R. Siddhartha Engineering College).*
