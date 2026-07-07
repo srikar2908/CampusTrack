@@ -5,13 +5,29 @@ build/
 .vscode/ 
 .idea/ 
 .gradle/ 
-android/ 
 ios/ 
 macos/ 
 windows/ 
 linux/ 
 web/ 
-test/ 
-functions/ 
+test/
+functions/node_modules/
 *.apk 
 *.log 
+# Ignore system and temp files
+assets/*.tmp
+assets/*.bak
+assets/*.old
+assets/.DS_Store
+
+# Android-specific ignores
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/key.properties
+android/app/keystore.properties
+android/app/google-services.json
+android/app/build/
+android/build/
+android/.idea/
+
